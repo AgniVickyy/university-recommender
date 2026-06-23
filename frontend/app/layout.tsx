@@ -7,7 +7,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Recommendation Engineer",
+  title: "Global Ranked Universities",
   description: "Find suitable universities based on your academic profile and preferences",
 };
 
