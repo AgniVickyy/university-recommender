@@ -1,4 +1,4 @@
-# University Recommendation Engineer
+# University Recommendation Engine
 
 A production-quality MVP that helps students find suitable universities based on academic profile and preferences. It includes a deterministic recommendation engine, FastAPI backend, PostgreSQL database, and a Next.js dashboard.
 
